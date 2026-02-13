@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/void-develops/Chemp-Builder/releases/latest">
-    <img src="https://img.shields.io/github/downloads/void-develops/Chemp-Builde/total?label=Downloads&style=for-the-badge" alt="Downloads">
+    <img src="https://img.shields.io/github/downloads/void-develops/Chemp-Builder/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
   <a href="https://github.com/void-develops/Chemp-Builder/releases/latest">
-    <img src="https://img.shields.io/github/v/release/void-develops/Chemp-Builde?label=Version&style=for-the-badge&color=red" alt="Version">
+    <img src="https://img.shields.io/github/v/release/void-develops/Chemp-Builder?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
   <a href="https://discord.gg/XScrZcky48"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
 
